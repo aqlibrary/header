@@ -1,0 +1,122 @@
+<div id="header-wrapper">
+<div id="top-nav">
+   <div class="section clearfix">
+   </div>
+</div>
+<header id="header">
+   <div class="section clearfix">
+      <a href="https://www.aquinas.edu/" title="Home" rel="home" class="logo" id="mobile-logo">
+      <img src="https://www.aquinas.edu/sites/all/themes/aquinas_theme/logo.png" alt="Home" />
+      </a>
+      <a href="#search" id="toggle-search"><span class="fa fa-search"></span></a>
+      <a href="#navigation" id="toggle-nav"><span class="fa fa-bars"></span></a>
+      <div class="region region-header">
+         <div id="block-search-form" class="block block-search">
+            <div class="content">
+               <form class="google-cse" action="https://www.aquinas.edu/library/" method="post" id="search-block-form" accept-charset="UTF-8">
+                  <div>
+                     <div class="container-inline">
+                        <h2 class="element-invisible">Search form</h2>
+                        <div class="form-item form-type-textfield form-item-search-block-form">
+                           <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+                           <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+                        </div>
+                        <div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div>
+                        <input type="hidden" name="form_build_id" value="form-EeKhXL0YG-8TnCMdrM-OJXX-0bZ3hkIfjzAr6TsdwoY" />
+                        <input type="hidden" name="form_id" value="search_block_form" />
+                     </div>
+                  </div>
+               </form>
+            </div>
+         </div>
+         <!--<div id="block-block-5" class="block block-block">
+            <div class="content">
+              <p><img alt="" height="1" src="//insight.adsrvr.org/track/evnt/?adv=12pi2s8&amp;ct=0:110k6mi&amp;fmt=3" style="border-style:none; position: absolute;" width="1" /></p>
+            </div>
+            </div>
+            </div>-->
+      </div>
+</header>
+<!-- /.section, /#header -->
+<div id="navigation">
+<div class="region region-navigation">
+<a href="https://www.aquinas.edu/" title="Home" rel="home" class="logo" id="desktop-logo">
+<img src="https://www.aquinas.edu/sites/all/themes/aquinas_theme/logo.png" alt="Home" />
+</a>
+<div id="block-om-maximenu-om-maximenu-1" class="block block-om-maximenu">
+<div class="content">
+<div id="om-maximenu-mega-menu" class="om-maximenu om-maximenu-no-style om-maximenu-block om-maximenu-row om-maximenu-block-down code-om-u1-1882129973">     
+<div id="om-menu-mega-menu-ul-wrapper" class="om-menu-ul-wrapper">
+<ul id="om-menu-mega-menu" class="om-menu">
+<li id="om-leaf-om-u1-1882129973-1" class="om-leaf first leaf-discover-aq">   
+<a  class="om-link mega link-discover-aq" href="https://www.aquinas.edu/discover-aq">Discover AQ</a>      
+</li>
+<li id="om-leaf-om-u1-1882129973-2" class="om-leaf leaf-admissions">   
+<a  class="om-link  link-admissions" href="https://www.aquinas.edu/admissions">Admissions</a>      
+</li>
+<li id="om-leaf-om-u1-1882129973-3" class="om-leaf leaf-academics">   
+<a  class="om-link mega link-academics" href="https://www.aquinas.edu/academics">Academics</a>      
+</li>
+<li id="om-leaf-om-u1-1882129973-4" class="om-leaf leaf-athletics">   
+<a  class="om-link  link-athletics" target="_blank" href="https://www.aqsaints.com/">Athletics</a>      
+</li>
+<li id="om-leaf-om-u1-1882129973-7" class="om-leaf leaf-life-at-aq">   
+<a  class="om-link mega link-life-at-aq" href="https://www.aquinas.edu/life-aq">Life at AQ</a>      
+</li>
+<li id="om-leaf-om-u1-1882129973-8" class="om-leaf leaf-resources">   
+<a  class="om-link mega link-resources" href="https://www.aquinas.edu/resources">Resources</a>      
+</li>
+<li id="om-leaf-om-u1-1882129973-9" class="om-leaf last leaf-foundation">   
+<a  class="om-link  link-foundation" href="https://www.aquinas.edu/foundation">Foundation</a>      
+</li>
+</ul><!-- /.om-menu -->    
+</div><!-- /.om-menu-ul-wrapper -->   
+</div><!-- /#om-maximenu-[menu name] -->   
+</div>
+</div>
+<div id="block-menu-menu-utility-menu" class="block block-menu">
+<div class="content">
+<ul class="menu"><li class="first leaf"><a href="http://aquinas.edu/elm">Elm</a></li>
+<li class="leaf"><a href="https://www.aquinas.edu/alumni">Alumni</a></li>
+<li class="leaf"><a href="https://www.aquinas.edu/admissions/undergraduate/visits-directions/personal-visits">Visit</a></li>
+<li class="leaf"><a href="https://www.aquinas.edu/contact-us">Contact </a></li>
+<li class="leaf"><a href="https://www.aquinas.edu/apply-now">Apply</a></li>
+<li class="last leaf"><a href="https://www.aquinas.edu/foundation/give-aquinas">Give</a></li>
+</ul>  </div>
+</div>
+</div>
+</div>
+</div>
+<div id="main" class="main clearfix">
+   <div id="content" class="column">
+      <div class="section">
+         <a id="main-content"></a>
+         <div class="region region-content">
+            <div id="block-system-main" class="block block-system">
+               <div class="content">
+                  <div class="panel-display panel-aquinas clearfix layout-aq" >
+                     <section class="panel-panel panel-top">
+                     <div class="overlay-page-title">
+                        <div class="panel-pane pane-entity-field pane-node-field-heading"  >
+                           <div class="pane-content">
+                              <div class="field-heading">
+                                 <div class="field-items">
+                                    <div class="field-item even"><a href="http://aquinas.libguides.com/library" style="color:#fff;" title="Library Homepage">Grace Hauenstein Library</a></div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="panel-pane pane-entity-field pane-node-field-fc-images"  >
+                           <div class="pane-content">
+                              <div class="field-collection-container clearfix"> </div>
+                           </div>
+                        </div>
+                     </div>
+                     <img src="https://libapps.s3.amazonaws.com/customers/1549/images/website-header-7.jpg" alt="Library book shelves with plant, globe, and dictionary" /> 
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
