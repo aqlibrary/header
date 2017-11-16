@@ -1,0 +1,323 @@
+<div id="header-wrapper">
+<div id="top-nav">
+   <div class="section clearfix">
+   </div>
+</div>
+<header id="header">
+   <div class="section clearfix">
+      <a href="https://www.aquinas.edu/" title="Home" rel="home" class="logo" id="mobile-logo">
+      <img src="https://www.aquinas.edu/sites/all/themes/aquinas_theme/logo.png" alt="Home" />
+      </a>
+      <a href="#search" id="toggle-search"><span class="fa fa-search"></span></a>
+      <a href="#navigation" id="toggle-nav"><span class="fa fa-bars"></span></a>
+      <div class="region region-header">
+         <div id="block-search-form" class="block block-search">
+            <div class="content">
+               <form class="google-cse" action="https://www.aquinas.edu/library/" method="post" id="search-block-form" accept-charset="UTF-8">
+                  <div>
+                     <div class="container-inline">
+                        <h2 class="element-invisible">Search form</h2>
+                        <div class="form-item form-type-textfield form-item-search-block-form">
+                           <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+                           <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+                        </div>
+                        <div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div>
+                        <input type="hidden" name="form_build_id" value="form-EeKhXL0YG-8TnCMdrM-OJXX-0bZ3hkIfjzAr6TsdwoY" />
+                        <input type="hidden" name="form_id" value="search_block_form" />
+                     </div>
+                  </div>
+               </form>
+            </div>
+         </div>
+         <!--<div id="block-block-5" class="block block-block">
+            <div class="content">
+              <p><img alt="" height="1" src="//insight.adsrvr.org/track/evnt/?adv=12pi2s8&amp;ct=0:110k6mi&amp;fmt=3" style="border-style:none; position: absolute;" width="1" /></p>
+            </div>
+            </div>
+            </div>-->
+      </div>
+</header>
+<!-- /.section, /#header -->
+<div id="navigation">
+<div class="region region-navigation">
+<a href="https://www.aquinas.edu/" title="Home" rel="home" class="logo" id="desktop-logo">
+<img src="https://www.aquinas.edu/sites/all/themes/aquinas_theme/logo.png" alt="Home" />
+</a>
+<div id="block-om-maximenu-om-maximenu-1" class="block block-om-maximenu">
+<div class="content">
+<div id="om-maximenu-mega-menu" class="om-maximenu om-maximenu-no-style om-maximenu-block om-maximenu-row om-maximenu-block-down code-om-u1-1882129973">     
+<div id="om-menu-mega-menu-ul-wrapper" class="om-menu-ul-wrapper">
+<ul id="om-menu-mega-menu" class="om-menu">
+<li id="om-leaf-om-u1-1882129973-1" class="om-leaf first leaf-discover-aq">   
+<a  class="om-link mega link-discover-aq" href="https://www.aquinas.edu/discover-aq">Discover AQ</a>      
+<div class="om-maximenu-content om-maximenu-content-nofade closed">
+<div class="om-maximenu-top">
+<div class="om-maximenu-top-left"></div>
+<div class="om-maximenu-top-right"></div>
+</div><!-- /.om-maximenu-top --> 
+<div class="om-maximenu-middle">
+<div class="om-maximenu-middle-left">
+<div class="om-maximenu-middle-right">
+<div class="block block-block block-block-id-6 first">           
+<h3 class="title">Discover AQ</h3>    <div class="content"><p>Aquinas College, an inclusive educational community rooted in the Catholic and Dominican tradition, provides a liberal arts education with a global perspective, emphasizes career preparation focused on leadership and service to others, and fosters a commitment to lifelong learning dedicated to the pursuit of truth and the common good.</p>
+</div>
+</div><!-- /.block -->
+<div class="block block-menu_block block-menu_block-id-6 last">           
+<div class="content"><div class="menu-block-wrapper menu-block-6 menu-name-menu-top-menu parent-mlid-5022 menu-level-1">
+<ul class="menu"><li class="first leaf menu-mlid-5023"><a href="https://www.aquinas.edu/discover-aq/our-mission-vision">Our Mission &amp; Vision</a></li>
+<li class="leaf menu-mlid-5024"><a href="https://www.aquinas.edu/discover-aq/about-grand-rapids">About Grand Rapids</a></li>
+<li class="leaf menu-mlid-7229"><a href="https://www.aquinas.edu/discover-aq/accolades-outcomes">Accolades &amp; Outcomes</a></li>
+<li class="leaf menu-mlid-7255"><a href="https://www.aquinas.edu/discover-aq/2017-2018-costs">Costs</a></li>
+<li class="leaf menu-mlid-7143"><a href="https://www.aquinas.edu/distinctively-catholic-dominican-0">Distinctively Catholic &amp; Dominican</a></li>
+<li class="leaf menu-mlid-7586"><a href="https://www.aquinas.edu/history-aquinas-college">History of Aquinas College</a></li>
+<li class="leaf menu-mlid-7587"><a href="https://www.aquinas.edu/discover-aq/presidents-office/inauguration-president-quinn">Inauguration of President Quinn</a></li>
+<li class="leaf menu-mlid-7166"><a href="https://www.aquinas.edu/posts">News</a></li>
+<li class="leaf menu-mlid-7144"><a href="https://www.aquinas.edu/presidents-office">President&#039;s Office</a></li>
+<li class="leaf menu-mlid-7520"><a href="https://www.aquinas.edu/discover-aq/institutional-research/student-right-know-information">Student Right-to-Know Information</a></li>
+<li class="leaf menu-mlid-7146"><a href="https://www.aquinas.edu/sustainability-initiative">Sustainability Initiative</a></li>
+<li class="last leaf menu-mlid-7588"><a href="http://www.youvisit.com/tour/aquinas?pl=v">Virtual Tour</a></li>
+</ul></div>
+</div>
+</div><!-- /.block -->
+<div class="om-clearfix"></div>
+</div><!-- /.om-maximenu-middle-right --> 
+</div><!-- /.om-maximenu-middle-left --> 
+</div><!-- /.om-maximenu-middle --> 
+<div class="om-maximenu-bottom">
+<div class="om-maximenu-bottom-left"></div>
+<div class="om-maximenu-bottom-right"></div>
+</div><!-- /.om-maximenu-bottom -->  
+<div class="om-maximenu-arrow"></div>
+<div class="om-maximenu-open">
+<input type="checkbox" value="" />
+Stay    </div><!-- /.om-maximenu-open -->  
+</div><!-- /.om-maximenu-content -->  
+</li>
+<li id="om-leaf-om-u1-1882129973-2" class="om-leaf leaf-admissions">   
+<a  class="om-link  link-admissions" href="https://www.aquinas.edu/admissions">Admissions</a>      
+<div class="om-maximenu-content om-maximenu-content-nofade closed">
+<div class="om-maximenu-top">
+<div class="om-maximenu-top-left"></div>
+<div class="om-maximenu-top-right"></div>
+</div><!-- /.om-maximenu-top --> 
+<div class="om-maximenu-middle">
+<div class="om-maximenu-middle-left">
+<div class="om-maximenu-middle-right">
+<div class="block block-menu_block block-menu_block-id-7 first last">           
+<div class="content"><div class="menu-block-wrapper menu-block-7 menu-name-menu-top-menu parent-mlid-6003 menu-level-1">
+<ul class="menu"><li class="first leaf has-children menu-mlid-6004"><a href="https://www.aquinas.edu/admissions/undergraduate">Undergraduate</a></li>
+<li class="leaf has-children menu-mlid-6005"><a href="https://www.aquinas.edu/admissions/graduate">Graduate</a></li>
+<li class="last leaf has-children menu-mlid-6006"><a href="https://www.aquinas.edu/admissions/continuing-education">Continuing Education</a></li>
+</ul></div>
+</div>
+</div><!-- /.block -->
+<div class="om-clearfix"></div>
+</div><!-- /.om-maximenu-middle-right --> 
+</div><!-- /.om-maximenu-middle-left --> 
+</div><!-- /.om-maximenu-middle --> 
+<div class="om-maximenu-bottom">
+<div class="om-maximenu-bottom-left"></div>
+<div class="om-maximenu-bottom-right"></div>
+</div><!-- /.om-maximenu-bottom -->  
+<div class="om-maximenu-arrow"></div>
+<div class="om-maximenu-open">
+<input type="checkbox" value="" />
+Stay    </div><!-- /.om-maximenu-open -->  
+</div><!-- /.om-maximenu-content -->  
+</li>
+<li id="om-leaf-om-u1-1882129973-3" class="om-leaf leaf-academics">   
+<a  class="om-link mega link-academics" href="https://www.aquinas.edu/academics">Academics</a>      
+<div class="om-maximenu-content om-maximenu-content-nofade closed">
+<div class="om-maximenu-top">
+<div class="om-maximenu-top-left"></div>
+<div class="om-maximenu-top-right"></div>
+</div><!-- /.om-maximenu-top --> 
+<div class="om-maximenu-middle">
+<div class="om-maximenu-middle-left">
+<div class="om-maximenu-middle-right">
+<div class="block block-block block-block-id-7 first">           
+<h3 class="title">Academics</h3>    <div class="content"><p>Aquinas students receive a four year liberal arts education with over 100 majors and minors, which prepares them for employment, lifelong learning, and critical thinking. Students make real the vision of the college: Aquinas College is an exceptional Catholic liberal arts college that prepares individuals for careers of leadership and service in developing a sustainable and just global community.</p>
+</div>
+</div><!-- /.block -->
+<div class="block block-menu_block block-menu_block-id-8 last">           
+<div class="content"><div class="menu-block-wrapper menu-block-8 menu-name-menu-top-menu parent-mlid-1158 menu-level-1">
+<ul class="menu"><li class="first leaf menu-mlid-7148"><a href="https://www.aquinas.edu/academics/undergraduate">Undergraduate Areas of Study</a></li>
+<li class="leaf menu-mlid-5115"><a href="https://www.aquinas.edu/registrar/academic-catalog-archives">Course Catalog</a></li>
+<li class="leaf menu-mlid-7150"><a href="https://www.aquinas.edu/academics/graduate">Graduate Programs</a></li>
+<li class="leaf menu-mlid-5116"><a href="https://www.aquinas.edu/service-learning">Service Learning</a></li>
+<li class="leaf menu-mlid-7149"><a href="https://www.aquinas.edu/academics/continuing-education">Continuing Education</a></li>
+<li class="leaf menu-mlid-7517"><a href="https://www.aquinas.edu/academics/part-time-and-adjunct-faculty">Part Time and Adjunct Faculty</a></li>
+<li class="leaf menu-mlid-5117"><a href="https://www.aquinas.edu/study-away">Study Away</a></li>
+<li class="leaf menu-mlid-7142"><a href="https://www.aquinas.edu/registrar">Registrar/Academic Advising</a></li>
+<li class="leaf menu-mlid-7141"><a href="https://www.aquinas.edu/registrar/academic-calendar">Academic Calendar</a></li>
+<li class="leaf menu-mlid-7186"><a href="https://www.aquinas.edu/academics/academic-affairs-staff">Academic Affairs Staff</a></li>
+<li class="leaf menu-mlid-7470"><a href="https://www.aquinas.edu/aq-advantage-center">Advantage Center</a></li>
+<li class="leaf menu-mlid-7471"><a href="https://www.aquinas.edu/resources/student-resources/career-services/students/internships">Internships</a></li>
+<li class="last leaf menu-mlid-7472"><a href="https://www.aquinas.edu/undergraduate-student-research">Student Research</a></li>
+</ul></div>
+</div>
+</div><!-- /.block -->
+<div class="om-clearfix"></div>
+</div><!-- /.om-maximenu-middle-right --> 
+</div><!-- /.om-maximenu-middle-left --> 
+</div><!-- /.om-maximenu-middle --> 
+<div class="om-maximenu-bottom">
+<div class="om-maximenu-bottom-left"></div>
+<div class="om-maximenu-bottom-right"></div>
+</div><!-- /.om-maximenu-bottom -->  
+<div class="om-maximenu-arrow"></div>
+<div class="om-maximenu-open">
+<input type="checkbox" value="" />
+Stay    </div><!-- /.om-maximenu-open -->  
+</div><!-- /.om-maximenu-content -->  
+</li>
+<li id="om-leaf-om-u1-1882129973-4" class="om-leaf leaf-athletics">   
+<a  class="om-link  link-athletics" target="_blank" href="https://www.aqsaints.com/">Athletics</a>      
+</li>
+<li id="om-leaf-om-u1-1882129973-7" class="om-leaf leaf-life-at-aq">   
+<a  class="om-link mega link-life-at-aq" href="https://www.aquinas.edu/life-aq">Life at AQ</a>      
+<div class="om-maximenu-content om-maximenu-content-nofade closed">
+<div class="om-maximenu-top">
+<div class="om-maximenu-top-left"></div>
+<div class="om-maximenu-top-right"></div>
+</div><!-- /.om-maximenu-top --> 
+<div class="om-maximenu-middle">
+<div class="om-maximenu-middle-left">
+<div class="om-maximenu-middle-right">
+<div class="block block-block block-block-id-4 first">           
+<h3 class="title">Life at AQ</h3>    <div class="content"><p>Your college experience isn’t just about what you learn in a classroom. At Aquinas College, we believe it’s just as important to learn on-campus, in the community and around the world. From one of our many registered student organizations, to Campus Life events, to the Center for Diversity &amp; Inclusion, there’s something for everyone at AQ. </p>
+</div>
+</div><!-- /.block -->
+<div class="block block-menu_block block-menu_block-id-9 last">           
+<div class="content"><div class="menu-block-wrapper menu-block-9 menu-name-main-menu parent-mlid-2899 menu-level-1">
+<ul class="menu"><li class="first leaf menu-mlid-3509"><a href="https://www.aquinas.edu/life-aq/full-campus-events-calendar">Full Campus Events Calendar</a></li>
+<li class="leaf menu-mlid-3318"><a href="https://www.aquinas.edu/life-aq/residence-life/campus-housing-0">Off-Campus Housing</a></li>
+<li class="leaf has-children menu-mlid-4127"><a href="https://www.aquinas.edu/life-aq/signature-events">Signature Events</a></li>
+<li class="leaf menu-mlid-3712"><a href="https://www.aquinas.edu/life-aq/registered-student-organizations-rsos">Registered Student Organizations (RSOs)</a></li>
+<li class="leaf has-children menu-mlid-3678"><a href="https://www.aquinas.edu/center-diversity-inclusion">Center for Diversity &amp; Inclusion</a></li>
+<li class="leaf has-children menu-mlid-2890"><a href="https://www.aquinas.edu/residence-life">Residence Life</a></li>
+<li class="leaf has-children menu-mlid-2871"><a href="https://www.aquinas.edu/campus-dining">On-Campus Dining</a></li>
+<li class="leaf has-children menu-mlid-3699"><a href="https://www.aquinas.edu/student-senate">Student Senate</a></li>
+<li class="leaf has-children menu-mlid-3290"><a href="https://www.aquinas.edu/student-ambassadors">Student Ambassadors</a></li>
+<li class="leaf has-children menu-mlid-6132"><a href="https://www.aquinas.edu/life-aq/parents-families">For Parents &amp; Families</a></li>
+<li class="leaf has-children menu-mlid-2869"><a href="https://www.aquinas.edu/office-student-affairs">Student Affairs</a></li>
+<li class="leaf has-children menu-mlid-3495"><a href="https://www.aquinas.edu/campus-integrity">Campus Integrity</a></li>
+<li class="leaf menu-mlid-4801"><a href="http://www.aquinas.edu/parents-families">AQ Parents</a></li>
+<li class="last leaf menu-mlid-3698"><a href="https://www.aquinas.edu/campus-life/cook-carriage-house">Cook Carriage House</a></li>
+</ul></div>
+</div>
+</div><!-- /.block -->
+<div class="om-clearfix"></div>
+</div><!-- /.om-maximenu-middle-right --> 
+</div><!-- /.om-maximenu-middle-left --> 
+</div><!-- /.om-maximenu-middle --> 
+<div class="om-maximenu-bottom">
+<div class="om-maximenu-bottom-left"></div>
+<div class="om-maximenu-bottom-right"></div>
+</div><!-- /.om-maximenu-bottom -->  
+<div class="om-maximenu-arrow"></div>
+<div class="om-maximenu-open">
+<input type="checkbox" value="" />
+Stay    </div><!-- /.om-maximenu-open -->  
+</div><!-- /.om-maximenu-content -->  
+</li>
+<li id="om-leaf-om-u1-1882129973-8" class="om-leaf leaf-resources">   
+<a  class="om-link mega link-resources" href="https://www.aquinas.edu/resources">Resources</a>      
+<div class="om-maximenu-content om-maximenu-content-nofade closed">
+<div class="om-maximenu-top">
+<div class="om-maximenu-top-left"></div>
+<div class="om-maximenu-top-right"></div>
+</div><!-- /.om-maximenu-top --> 
+<div class="om-maximenu-middle">
+<div class="om-maximenu-middle-left">
+<div class="om-maximenu-middle-right">
+<div class="block block-block block-block-id-8 first">           
+<h3 class="title">Resources</h3>    <div class="content"><p>Aquinas College is proud to offer a hands-on approach to learning that extends far outside the classroom. From the Library, to the Writing Center, to Counseling, Health &amp; Wellness, our staff are here to help. </p>
+</div>
+</div><!-- /.block -->
+<div class="block block-menu_block block-menu_block-id-10 last">           
+<div class="content"><div class="menu-block-wrapper menu-block-10 menu-name-main-menu parent-mlid-7127 menu-level-1">
+<ul class="menu"><li class="first leaf has-children menu-mlid-7128"><a href="https://www.aquinas.edu/student-resources">Student Resources</a></li>
+<li class="leaf has-children menu-mlid-2853"><a href="https://www.aquinas.edu/alumni">Alumni Resources</a></li>
+<li class="leaf has-children menu-mlid-7133"><a href="https://www.aquinas.edu/resources/departments">Departments</a></li>
+<li class="leaf has-children menu-mlid-2865"><a href="https://www.aquinas.edu/conferencing-event-services">Conferencing &amp; Event Services</a></li>
+<li class="leaf menu-mlid-7185"><a href="https://www.aquinas.edu/accessibility-services">Accessibility Services</a></li>
+<li class="leaf menu-mlid-7590"><a href="https://www.aquinas.edu/resources/student-resources/marketing-and-communication/aquinas-magazine">Aquinas Magazine</a></li>
+<li class="leaf menu-mlid-7177"><a href="https://www.aquinas.edu/bookstore">Bookstore</a></li>
+<li class="leaf has-children menu-mlid-7147"><a href="https://www.aquinas.edu/campus-safety">Campus Safety</a></li>
+<li class="leaf menu-mlid-7140"><a href="https://www.aquinas.edu/financial-aid">Financial Aid</a></li>
+<li class="leaf menu-mlid-7139"><a href="https://www.aquinas.edu/library">Grace Hauenstein Library</a></li>
+<li class="leaf menu-mlid-7589"><a href="https://www.aquinas.edu/human-resources">Human Resources</a></li>
+<li class="leaf menu-mlid-7262"><a href="https://www.aquinas.edu/student-resources/career-services">Internship &amp; Career Services</a></li>
+<li class="last leaf has-children menu-mlid-2882"><a href="https://www.aquinas.edu/olli-aquinas">OLLI at Aquinas</a></li>
+</ul></div>
+</div>
+</div><!-- /.block -->
+<div class="om-clearfix"></div>
+</div><!-- /.om-maximenu-middle-right --> 
+</div><!-- /.om-maximenu-middle-left --> 
+</div><!-- /.om-maximenu-middle --> 
+<div class="om-maximenu-bottom">
+<div class="om-maximenu-bottom-left"></div>
+<div class="om-maximenu-bottom-right"></div>
+</div><!-- /.om-maximenu-bottom -->  
+<div class="om-maximenu-arrow"></div>
+<div class="om-maximenu-open">
+<input type="checkbox" value="" />
+Stay    </div><!-- /.om-maximenu-open -->  
+</div><!-- /.om-maximenu-content -->  
+</li>
+<li id="om-leaf-om-u1-1882129973-9" class="om-leaf last leaf-foundation">   
+<a  class="om-link  link-foundation" href="https://www.aquinas.edu/foundation">Foundation</a>      
+</li>
+</ul><!-- /.om-menu -->    
+</div><!-- /.om-menu-ul-wrapper -->   
+</div><!-- /#om-maximenu-[menu name] -->   
+</div>
+</div>
+<div id="block-menu-menu-utility-menu" class="block block-menu">
+<div class="content">
+<ul class="menu"><li class="first leaf"><a href="http://aquinas.edu/elm">Elm</a></li>
+<li class="leaf"><a href="https://www.aquinas.edu/alumni">Alumni</a></li>
+<li class="leaf"><a href="https://www.aquinas.edu/admissions/undergraduate/visits-directions/personal-visits">Visit</a></li>
+<li class="leaf"><a href="https://www.aquinas.edu/contact-us">Contact </a></li>
+<li class="leaf"><a href="https://www.aquinas.edu/apply-now">Apply</a></li>
+<li class="last leaf"><a href="https://www.aquinas.edu/foundation/give-aquinas">Give</a></li>
+</ul>  </div>
+</div>
+</div>
+</div>
+</div>
+<div id="main" class="main clearfix">
+   <div id="content" class="column">
+      <div class="section">
+         <a id="main-content"></a>
+         <div class="region region-content">
+            <div id="block-system-main" class="block block-system">
+               <div class="content">
+                  <div class="panel-display panel-aquinas clearfix layout-aq" >
+                     <section class="panel-panel panel-top">
+                     <div class="overlay-page-title">
+                        <div class="panel-pane pane-entity-field pane-node-field-heading"  >
+                           <div class="pane-content">
+                              <div class="field-heading">
+                                 <div class="field-items">
+                                    <div class="field-item even"><a href="http://aquinas.libguides.com/library" style="color:#fff;" title="Library Homepage">Grace Hauenstein Library</a></div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="panel-pane pane-entity-field pane-node-field-fc-images"  >
+                           <div class="pane-content">
+                              <div class="field-collection-container clearfix"> </div>
+                           </div>
+                        </div>
+                     </div>
+                     <img src="https://libapps.s3.amazonaws.com/customers/1549/images/website-header-7.jpg" alt="Library book shelves with plant, globe, and dictionary" /> 
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
